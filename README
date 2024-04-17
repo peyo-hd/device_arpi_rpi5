@@ -38,6 +38,6 @@
   https://github.com/android-rpi/kernel_manifest
 
 # Copy kernel binaries to boot partition
-  <kernel directory>/out/arpi14-6.1/dist/Image.gz to p1:/
-  <kernel directory>/out/arpi14-6.1/dist/bcm2712-rpi-5-b.dtb to p1:/
-  <kernel directory>/out/arpi14-6.1/dist/vc4-kms-v3d-pi5.dtbo to p1:/overlays/
+  <kernel directory>/out/arpi5/dist/Image.gz to p1:/
+  <kernel directory>/out/arpi5/dist/bcm2712-rpi-5-b.dtb to p1:/
+  <kernel directory>/out/arpi5/dist/vc4-kms-v3d-pi5.dtbo to p1:/overlays/
