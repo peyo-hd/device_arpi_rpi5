@@ -9,7 +9,7 @@
  Refer to http://source.android.com/source/building.html
 
   $ source build/envsetup.sh
-  $ lunch rpi5-ap1a-eng
+  $ lunch rpi5-ap2a-eng
   $ make ramdisk systemimage vendorimage
 
  Use -j[n] option with make, if build host has a good number of CPU cores.
